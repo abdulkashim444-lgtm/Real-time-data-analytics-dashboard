@@ -1,10 +1,9 @@
 # 🚀 Real-Time Data Analytics Dashboard
 
-
-
-
 <img width="1907" height="917" alt="Image" src="https://github.com/user-attachments/assets/c73226eb-d596-485a-b75e-deb0fe8ac12b" />
-<img width="1907" height="917" alt="Image" src="https://github.com/user-attachments/assets/c73226eb-d596-485a-b75e-deb0fe8ac12b" />
+
+
+
 
 ## 🌟 Enterprise-Grade AI-Powered Analytics & Business Intelligence Platform
 
