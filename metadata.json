@@ -1,0 +1,8 @@
+{
+  "name": "Real-Time Data Analytics Dashboard",
+  "description": "A high-performance full-stack analytics platform featuring simulated real-time data ingestion, Python/Pandas-style automated ETL pipelines, interactive dashboards, and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
